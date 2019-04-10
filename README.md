@@ -23,3 +23,6 @@ Deploy
 You will create Wercker pipelines to build, publish, and deploy this microservice during the workshop.
 
 
+DOCKER_REGISTRY:
+
+phx.ocir.io; iad.ocir.io; lhr.ocir.io; fra.ocir.io
